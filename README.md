@@ -3,7 +3,7 @@
 informações sobre este GitHub:
 
 - me chamo Fernanda Machado
-- estudante Alura
+- estudante Alura ![https://www.alura.com.br/](link)
 - se desenvolvendo na linguagem JavaScript
 - espaço e conta ultilizadapara organização e compartilhamento de meus projetos desenvolvidos.
 
